@@ -1,13 +1,15 @@
-body
-{
-	text-align: center;
-	font-family: "Arial";
-	color: black;
+body {
+  text-align: center;
+  font-family: "Arial";
+  color: black;
 }
 
-h1 
-{
-	color: deeppink;
+h1 {
+  color: deeppink;
 }
 
-
+div {
+  background-color: blueviolet;
+  color: aliceblue;
+  font-weight: bolder;
+}
