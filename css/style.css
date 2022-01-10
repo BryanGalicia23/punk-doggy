@@ -51,3 +51,12 @@ body {
   padding: 1em;
   text-align: center;
 }
+
+#footer {
+  background: #777;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  font-size: 1.3rem;
+  font-weight: bolder;
+}
