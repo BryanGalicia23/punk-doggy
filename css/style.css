@@ -1,4 +1,5 @@
 body {
+  background: #1e1f24;
   text-align: center;
   font-family: "Arial";
   color: #333;
@@ -8,12 +9,17 @@ body {
 }
 
 #cabecera {
-  background-color: #33a;
-  box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.75);
+  background-color: #37488b;
+  box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
   color: white;
   font-weight: bold;
   margin: 0;
   padding: 0.5em;
+}
+
+#cabecera #logo {
+  width: 35px;
+  vertical-align: middle;
 }
 
 #cabecera #tagline {
@@ -34,7 +40,12 @@ body {
   font-size: 30px;
 }
 
-img {
+#perrito {
   width: 350px;
   height: 300px;
+}
+
+#logo {
+  background-attachment: white;
+  padding: 1em;
 }
