@@ -1,2 +1,37 @@
-# punk-doggy
-Blog para perritos. Repositorio de prueba, traído desde WSL
+# <center> 💚 **ChocoBonk** 💚</center>
+
+### <center>**Blog para perritos. Repositorio de prueba, traído desde WSL**</center>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Punky Doggy</title>
+</head>
+
+<body>
+  <div id="container">
+    <div id="cabecera">
+      <img id="logo" src="imagenes/javascript.jpg" alt="javascript" />
+      ChocoBonk
+      <span id="tagline">El mejor blog para mascotas</span>
+    </div>
+    <div id="post">
+      <h1>Bienvenido a Punky Doggy</h1>
+      <h3>Conoce a nuestro amigo más Punk de esta semana</h3>
+      <img id="perrito" src="https://blog.seccionamarilla.com.mx/wp-content/uploads/2017/01/perro-rockero.jpg"
+        alt="perrito punk" />
+      <p>Suscríbete y dale like</p>
+      <p>Siéntete libre de querer a tu mascota</p>
+    </div>
+    <div id="footer">
+      💚 Hecho con croquetas 💚
+    </div>
+  </div>
+</body>
+
+</html>
